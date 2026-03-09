@@ -2,6 +2,12 @@
 
 This project is a web application for managing customers and their accounts. It provides various functionalities such as customer CRUD operations, viewing accounts and operations, and performing financial transactions.
 
+## Contributors-
+- Abhishek Mathur
+- Maaz Khan
+- Ashutosh Tiwari
+- Sachin Gangwar
+
 ## Technologies Used
 
 - Backend: Spring Boot
