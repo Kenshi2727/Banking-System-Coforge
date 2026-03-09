@@ -34,7 +34,7 @@ export class CustomersComponent implements OnInit {
   }
 
   handleDeleteCustomer(c: Customer) {
-    let conf = confirm("Are you sure?");
+    let conf = confirm("Confirm Account Deletion?");
     if(!conf) return;
     this.customerService.deleteCustomer(c.id).subscribe({
       next : (resp) => {
